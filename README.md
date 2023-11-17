@@ -49,11 +49,11 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(n) |
+| Best Time Complexity | /[O(n)/] |
 | --- | --- |
-| Average Time Complexity | O(n$^2$) |
-| Worst Time Complexity | O(n$^2$) |
-| Space Complexity | O(1) |
+| Average Time Complexity | /[O(n^2)/] |
+| Worst Time Complexity | /[O(n^2)/] |
+| Space Complexity | /[O(1)/] |
 | Stability | Yes |
 
 ### Applications
@@ -65,11 +65,11 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(n$^2$) |
+| Best Time Complexity | /[O(n^2)/] |
 | --- | --- |
-| Average Time Complexity | O(n$^2$) |
-| Worst Time Complexity | O(n$^2$) |
-| Space Complexity | O(1) |
+| Average Time Complexity | /[O(n^2)/] |
+| Worst Time Complexity | /[O(n^2)/] |
+| Space Complexity | /[O(1)/] |
 | Stability | No |
 
 ### Applications
@@ -82,11 +82,11 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(nlogn) |
+| Best Time Complexity | /[O(nlogn)/] |
 | --- | --- |
-| Average Time Complexity | O(nlogn) |
-| Worst Time Complexity | O(nlogn) |
-| Space Complexity | O(1) |
+| Average Time Complexity | /[O(nlogn)/] |
+| Worst Time Complexity | /[O(nlogn)/] |
+| Space Complexity | /[O(1)/] |
 | Stability | No |
 
 ### Applications
@@ -98,11 +98,11 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(n) |
+| Best Time Complexity | /[O(n)/] |
 | --- | --- |
-| Average Time Complexity | O(n$^2$) |
-| Worst Time Complexity | O(n$^2$) |
-| Space Complexity | O(1) |
+| Average Time Complexity | /[O(n^2)/] |
+| Worst Time Complexity | /[O(n^2)/] |
+| Space Complexity | /[O(1)/] |
 | Stability | Yes |
 
 ### Applications
@@ -114,11 +114,11 @@ Happy Coding!
 
 ### Complexity
 
-| Worst Time Complexity | O(n$^2$) |
+| Worst Time Complexity | /[O(n^2)/] |
 | --- | --- |
-| Average Time Complexity | O(nlogn) |
-| Best Time Complexity | O(nlogn) |
-| Space Complexity | O(1) |
+| Average Time Complexity | /[O(nlogn)/] |
+| Best Time Complexity | /[O(nlogn)] |
+| Space Complexity | /[O(1)/] |
 
 ### Applications
 
@@ -128,11 +128,11 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(nlogn) |
+| Best Time Complexity | /[O(nlogn)/] |
 | --- | --- |
-| Average Time Complexity | O(nlogn) |
-| Worst Time Complexity | O(nlogn) |
-| Space Complexity | O(n) |
+| Average Time Complexity | /[O(nlogn)/] |
+| Worst Time Complexity | /[O(nlogn)/] |
+| Space Complexity | /[O(n)/] |
 | Stability | Yes |
 
 ### Applications
@@ -145,11 +145,11 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(nlogn) |
+| Best Time Complexity | /[O(nlogn)/] |
 | --- | --- |
-| Average Time Complexity | O(nlogn) |
-| Worst Time Complexity | O(n$^2$) |
-| Space Complexity | O(nlogn) |
+| Average Time Complexity | /[O(nlogn)/] |
+| Worst Time Complexity | /[O(n^2)/] |
+| Space Complexity | /[O(nlogn)/] |
 | Stability | No |
 
 ### Applications
@@ -163,11 +163,11 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(max - min + n) |
+| Best Time Complexity | /[O(max-min+n)/] |
 | --- | --- |
-| Average Time Complexity | O(max - min + n) |
-| Worst Time Complexity | O(max - min + n) |
-| Space Complexity | O(max - min) |
+| Average Time Complexity | /[O(max-min+n)/] |
+| Worst Time Complexity | /[O(max-min+n)/] |
+| Space Complexity | /[O(max-min)/] |
 | Stability | Yes |
 
 ### Applications
@@ -179,11 +179,11 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(n + max) |
+| Best Time Complexity | /[O(n+max)/] |
 | --- | --- |
-| Average Time Complexity | O(n + max) |
-| Worst Time Complexity | O(n + max) |
-| Space Complexity | O(max) |
+| Average Time Complexity | /[O(n+max)/] |
+| Worst Time Complexity | /[O(n+max)/] |
+| Space Complexity | /[O(max)/] |
 | Stability | Yes |
 
 ### Applications
@@ -195,11 +195,11 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(n) |
+| Best Time Complexity | /[O(n)/] |
 | --- | --- |
-| Average Time Complexity | O(n) |
-| Worst Time Complexity | O(n$^2$) |
-| Space Complexity | O(n) |
+| Average Time Complexity | /[O(n)/] |
+| Worst Time Complexity | /[O(n^2)/] |
+| Space Complexity | /[O(n)/] |
 | Stability | Yes |
 
 ### Application

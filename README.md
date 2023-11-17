@@ -1,8 +1,8 @@
-# Sorting Algorithm Reposition
+# Basic Sorting Algorithms
 
 ## Overview
 
-Welcome to the Sorting Algorithm Reposition repository! This project aims to implement and document various sorting algorithms in two programming languages (Python and C++). The goal is to provide a resource for developers to understand, compare, and contribute to different sorting algorithms.
+Welcome to the Basic Sorting Algorithms repository! This project aims to implement and document various sorting algorithms in two programming languages (Python and C++). The goal is to provide a resource for developers to understand, compare, and contribute to different sorting algorithms.
 
 ## Algorithms Implemented
 

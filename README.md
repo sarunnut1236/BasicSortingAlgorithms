@@ -51,8 +51,8 @@ Happy Coding!
 
 | Best Time Complexity | O(n) |
 | --- | --- |
-| Average Time Complexity | O(n$^2$) |
-| Worst Time Complexity | O(n$^2$) |
+| Average Time Complexity | O(n<sup>2</sup>) |
+| Worst Time Complexity | O(n<sup>2</sup>) |
 | Space Complexity | O(1) |
 | Stability | Yes |
 
@@ -65,10 +65,10 @@ Happy Coding!
 
 ### Complexity
 
-| Best Time Complexity | O(n$^2$) |
+| Best Time Complexity | O(n<sup>2</sup>) |
 | --- | --- |
-| Average Time Complexity | O(n$^2$) |
-| Worst Time Complexity | O(n$^2$) |
+| Average Time Complexity | O(n<sup>2</sup>) |
+| Worst Time Complexity | O(n<sup>2</sup>) |
 | Space Complexity | O(1) |
 | Stability | No |
 
@@ -100,8 +100,8 @@ Happy Coding!
 
 | Best Time Complexity | O(n) |
 | --- | --- |
-| Average Time Complexity | O(n$^2$) |
-| Worst Time Complexity | O(n$^2$) |
+| Average Time Complexity | O(n<sup>2</sup>) |
+| Worst Time Complexity | O(n<sup>2</sup>) |
 | Space Complexity | O(1) |
 | Stability | Yes |
 
@@ -114,7 +114,7 @@ Happy Coding!
 
 ### Complexity
 
-| Worst Time Complexity | O(n$^2$) |
+| Worst Time Complexity | O(n<sup>2</sup>) |
 | --- | --- |
 | Average Time Complexity | O(nlogn) |
 | Best Time Complexity | O(nlogn) |
@@ -148,7 +148,7 @@ Happy Coding!
 | Best Time Complexity | O(nlogn) |
 | --- | --- |
 | Average Time Complexity | O(nlogn) |
-| Worst Time Complexity | O(n$^2$) |
+| Worst Time Complexity | O(n<sup>2</sup>) |
 | Space Complexity | O(nlogn) |
 | Stability | No |
 
@@ -198,7 +198,7 @@ Happy Coding!
 | Best Time Complexity | O(n) |
 | --- | --- |
 | Average Time Complexity | O(n) |
-| Worst Time Complexity | O(n$^2$) |
+| Worst Time Complexity | O(n<sup>2</sup>) |
 | Space Complexity | O(n) |
 | Stability | Yes |
 

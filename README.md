@@ -17,33 +17,9 @@ Welcome to the Basic Sorting Algorithms repository! This project aims to impleme
 9. **Radix Sort**
 10. **Bucket Sort**
 
-## Getting Started
-
-### Prerequisites
-None
-
-### Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/sorting-algorithm-reposition.git`
-2. Navigate to the project directory: `cd sorting-algorithm-reposition`
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to the repository, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Implement your changes.
-4. Test thoroughly.
-5. Commit your changes: `git commit -m "Add feature-name"`.
-6. Push to your branch: `git push origin feature-name`.
-7. Create a pull request on GitHub.
-
-Please make sure to follow the code style and contribute meaningful tests when applicable.
-
-Happy Coding!
-
 ---
+
+# Getting Started
 
 ## Bubble Sort
 

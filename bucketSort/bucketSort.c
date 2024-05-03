@@ -42,24 +42,24 @@ void BucketSort(int arr[]) {
   }
 
   // Print the buckets along with their elements
-  for (i = 0; i < NBUCKET; i++) {
-    printf("Bucket[%d]: ", i);
-    printBuckets(buckets[i]);
-    printf("\n");
-  }
+  // for (i = 0; i < NBUCKET; i++) {
+  //   printf("Bucket[%d]: ", i);
+  //   printBuckets(buckets[i]);
+  //   printf("\n");
+  // }
 
   // Sort the elements of each bucket
   for (i = 0; i < NBUCKET; ++i) {
     buckets[i] = InsertionSort(buckets[i]);
   }
 
-  printf("-------------\n");
-  printf("Bucktets after sorting\n");
-  for (i = 0; i < NBUCKET; i++) {
-    printf("Bucket[%d]: ", i);
-    printBuckets(buckets[i]);
-    printf("\n");
-  }
+  // printf("-------------\n");
+  // printf("Bucktets after sorting\n");
+  // for (i = 0; i < NBUCKET; i++) {
+  //   printf("Bucket[%d]: ", i);
+  //   printBuckets(buckets[i]);
+  //   printf("\n");
+  // }
 
   // Put sorted elements on arr
   for (j = 0, i = 0; i < NBUCKET; ++i) {
@@ -70,7 +70,7 @@ void BucketSort(int arr[]) {
       node = node->next;
     }
   }
-
+  free(buckets);
   return;
 }
 
